@@ -5,7 +5,7 @@ class Kebac:
         "AH": "a",     # se prononce comme le "A" du mot "Ami"
         "UH": "e",     # se prononce comme le "E" du mot "Neuf"
         "EU": "e",     # se prononce comme le "E" du mot "Deux"
-        "E2": "e",     # se prononce comme le "E" du mot "Element"
+        "E2": "é",     # se prononce comme le "É" du mot "Élément"
         "OH": "o",     # se prononce comme le "O" du mot "Rock"
         "OW": "o",     # se prononce comme le "O" du mot "Rose"
         "U": "u",      # se prononce comme le "U" du mot "Elu"
