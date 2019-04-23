@@ -2361,7 +2361,7 @@ aeropathie===AH_E2_R_OW_P_AH_T_Y
 aerophagie===AH_E2_R_OW_F_AH_ZH_Y
 aeroplane===AH_E2_R_OW_P_L_AH_N
 aeroplanes===AH_E2_R_OW_P_L_AH_N
-aeroport===AH_E2_R_OW_P_OH_R_-
+aeroport===AH_E2_R_OW_P_OH_R
 aeroporte===AH_E2_R_OW_P_OH_R_T_E2
 aeroportee===AH_E2_R_OW_P_OH_R_T_E2
 aeroportees===AH_E2_R_OW_P_OH_R_T_E2
@@ -3729,7 +3729,7 @@ alaska===AH_L_AH_S_K_AH
 alba===AH_L_B_AH
 albacore===AH_L_B_AH_K_OH_R
 albanais===AH_L_B_AH_N_EH
-albanaise===AH_L_B_AH_N_EH_Z_-
+albanaise===AH_L_B_AH_N_EH_Z
 albanaises===AH_L_B_AH_N_EH_Z
 albanie===AH_L_B_AH_N_Y
 albanophone===AH_L_B_AH_N_OW_F_OH_N
@@ -3928,7 +3928,7 @@ aliment===AH_L_Y_M_AN
 alimenta===AH_L_Y_M_AN_T_AH
 alimentaient===AH_L_Y_M_AN_T_EH
 alimentaire===AH_L_Y_M_AN_T_EH_R
-alimentaires===AH_L_Y_M_AN_T_EH_R_5-
+alimentaires===AH_L_Y_M_AN_T_EH_R_5
 alimentais===AH_L_Y_M_AN_T_EH
 alimentait===AH_L_Y_M_AN_T_EH
 alimentant===AH_L_Y_M_AN_T_AN
@@ -4868,7 +4868,7 @@ amplement===AN_P_L_EU_M_AN
 amples===AN_P_L_,V
 ampleur===AN_P_L_UH_R
 ampleurs===AN_P_L_UH_R
-ampli-tuner===AN_P_L_Y_T_U_N_UH_R_5-
+ampli-tuner===AN_P_L_Y_T_U_N_UH_R_5
 amplifia===AN_P_L_Y_F_Y_AH
 amplifiaient===AN_P_L_Y_F_Y_EH
 amplifiait===AN_P_L_Y_F_Y_EH
@@ -5875,7 +5875,7 @@ antidatee===AN_T_Y_D_AH_T_E2
 antidater===AN_T_Y_D_AH_T_E2
 antidemarrage===AN_T_Y_D_E2_M_AH_R_AH_ZH
 antidemocratique===AN_T_Y_D_E2_M_OW_K_R_AH_T_Y_K
-antidepresseur===AN_T_Y_D_E2_P_R_E2_S_UH_R_5-
+antidepresseur===AN_T_Y_D_E2_P_R_E2_S_UH_R_5
 antidepresseurs===AN_T_Y_D_E2_P_R_EH_S_UH_R
 antiderapant===AN_T_Y_D_E2_R_AH_P_AN
 antiderapante===AN_T_Y_D_E2_R_AH_P_AN_T
@@ -5888,7 +5888,7 @@ antidotes===AN_T_Y_D_OH_T
 antidouleur===AN_T_Y_D_OO_L_UH_R
 antidreyfusard===AN_T_Y_D_R_EH_F_U_Z_AH_R
 antidreyfusarde===AN_T_Y_D_R_EH_F_U_Z_AH_R_D
-antidreyfusards===AN_T_Y_D_R_EH_F_U_Z_AH_R_5-
+antidreyfusards===AN_T_Y_D_R_EH_F_U_Z_AH_R_5
 antidreyfusisme===AN_T_Y_D_R_EH_F_U_Z_Y_S_M
 antidrogue===AN_T_Y_D_R_OH_G
 antiemetique===AN_T_Y_E2_M_E2_T_Y_K_,V
@@ -7574,7 +7574,7 @@ arrangerons===AH_R_AN_ZH_EU_R_ON
 arrangeront===AH_R_AN_ZH_EU_R_ON
 arranges===AH_R_AN_ZH
 arranges===AH_R_AN_ZH_E2
-arrangeurs===AH_R_AN_ZH_UH_R_-
+arrangeurs===AH_R_AN_ZH_UH_R
 arrangez===AH_R_AN_ZH_E2
 arrangiez===AH_R_AN_ZH_Y_E2
 arrangions===AH_R_AN_ZH_Y_ON
@@ -9088,7 +9088,7 @@ atterre===AH_T_EH_R
 atterre===AH_T_E2_R_E2
 atterree===AH_T_E2_R_E2
 atterrees===AH_T_E2_R_E2
-atterrerent===AH_T_EH_R_EH_R_-
+atterrerent===AH_T_EH_R_EH_R
 atterres===AH_T_E2_R_E2
 atterri===AH_T_EH_R_Y
 atterrimes===AH_T_EH_R_Y_M
@@ -10458,7 +10458,7 @@ babouvistes===B_AH_B_OO_V_Y_S_T
 baby===B_E2_B_Y
 baby-boom===B_E2_B_Y_B_OO_M
 baby-foot===B_E2_B_Y_F_OO_T
-baby-sitter===B_E2_B_Y_S_Y_T_UH_R_5-
+baby-sitter===B_E2_B_Y_S_Y_T_UH_R_5
 baby-sitters===B_E2_B_Y_S_Y_T_UH_R
 baby-sitting===B_E2_B_Y_S_Y_T_Y_N_G
 babylonien===B_AH_B_Y_L_OW_N_Y_IN
@@ -12147,7 +12147,7 @@ beante===B_E2_AN_T
 beantes===B_E2_AN_T
 beants===B_E2_AN
 bearnais===B_E2_AH_R_N_EH
-bearnaise===B_E2_AH_R_N_EH_Z_-
+bearnaise===B_E2_AH_R_N_EH_Z
 beat===B_Y_T
 beat===B_E2_AH
 beatgeneration===B_Y_T_ZH_E2_N_E2_R_AH_S_Y_ON
@@ -13540,7 +13540,7 @@ blasphemais===B_L_AH_S_F_E2_M_EH
 blasphemait===B_L_AH_S_F_E2_M_EH
 blasphemant===B_L_AH_S_F_E2_M_AN
 blasphemateur===B_L_AH_S_F_E2_M_AH_T_UH_R
-blasphemateurs===B_L_AH_S_F_E2_M_AH_T_UH_R_5-
+blasphemateurs===B_L_AH_S_F_E2_M_AH_T_UH_R_5
 blasphematoire===B_L_AH_S_F_E2_M_AH_T_OO_AH_R
 blasphematoires===B_L_AH_S_F_E2_M_AH_T_OO_AH_R
 blasphematrice===B_L_AH_S_F_E2_M_AH_T_R_Y_S
@@ -13763,7 +13763,7 @@ blouser===B_L_OO_Z_E2
 blouses===B_L_OO_Z_E2
 bluejeans===B_L_OO_DJ_Y_N_S
 bluenote===B_L_OO_N_OH_T
-blue-jean===B_L_OO_DJ_Y_N_-;
+blue-jean===B_L_OO_DJ_Y_N_;
 blue-jeans===B_L_OO_DJ_Y_N_S
 blues===B_L_OO_Z
 bluets===B_L_U_EH
@@ -13862,7 +13862,7 @@ bogues===B_OH_G
 boguet===B_OH_G_EH
 boheme===B_OW_EH_M
 boheme===B_OW_EH_M
-bohemes===B_OW_EH_M_-
+bohemes===B_OW_EH_M
 bohemien===B_OW_E2_M_Y_IN
 bohemienne===B_OW_E2_M_Y_EH_N
 bohemiennes===B_OW_E2_M_Y_EH_N
@@ -14142,7 +14142,7 @@ bons===B_ON
 bons-cadeaux===B_ON_K_AH_D_OW
 bons-chretiens===B_ON_K_R_E2_T_Y_IN
 bonsais===B_ON_Z_AH_Y
-bonshommes===B_ON_Z_OH_M_-
+bonshommes===B_ON_Z_OH_M
 bonsoir===B_ON_S_OO_AH_R
 bonsoirs===B_ON_S_OO_AH_R
 bonte===B_ON_T_E2
@@ -17391,7 +17391,7 @@ cambre===K_AN_B_R_E2
 cambree===K_AN_B_R_E2
 cambrees===K_AN_B_R_E2
 cambrement===K_AN_B_R_EU_M_AN
-cambrent===K_AN_B_R_-
+cambrent===K_AN_B_R
 cambrer===K_AN_B_R_E2
 cambrera===K_AN_B_R_EU_R_AH
 cambres===K_AN_B_R
@@ -18762,7 +18762,7 @@ castings===K_AH_S_T_Y_N_G
 castor===K_AH_S_T_OH_R
 castors===K_AH_S_T_OH_R
 castrat===K_AH_S_T_R_AH
-castrateur===K_AH_S_T_R_AH_T_UH_R_5-
+castrateur===K_AH_S_T_R_AH_T_UH_R_5
 castration===K_AH_S_T_R_AH_S_Y_ON
 castratrice===K_AH_S_T_R_AH_T_R_Y_S
 castratrices===K_AH_S_T_R_AH_T_R_Y_S
@@ -19925,7 +19925,7 @@ chantonnee===SH_AN_T_OW_N_E2
 chantonnement===SH_AN_T_OH_N_EU_M_AN
 chantonnent===SH_AN_T_OH_N
 chantonner===SH_AN_T_OW_N_E2
-chantonnerent===SH_AN_T_OW_N_EH_R_5-
+chantonnerent===SH_AN_T_OW_N_EH_R_5
 chantonnes===SH_AN_T_OW_N_E2
 chantons===SH_AN_T_ON
 chantoung===SH_AN_T_OO_N_G
@@ -21598,7 +21598,7 @@ cigare===S_Y_G_AH_R
 cigares===S_Y_G_AH_R
 cigarette===S_Y_G_AH_R_EH_T
 cigarettes===S_Y_G_AH_R_EH_T
-cigarettier===S_Y_G_AH_R_EH_T_Y_E2_-
+cigarettier===S_Y_G_AH_R_EH_T_Y_E2
 cigariere===S_Y_G_AH_R_Y_EH_R
 cigarieres===S_Y_G_AH_R_Y_EH_R
 cigarillo===S_Y_G_AH_R_Y_OW
@@ -22168,7 +22168,7 @@ claqueront===K_L_AH_K_EU_R_ON
 claques===K_L_AH_K
 claques===K_L_AH_K_E2
 claquet===K_L_AH_K_EH
-claqueterent===K_L_AH_K_EU_T_EH_R_5-
+claqueterent===K_L_AH_K_EU_T_EH_R_5
 claquette===K_L_AH_K_EH_T
 claquettes===K_L_AH_K_EH_T
 claqueurs===K_L_AH_K_UH_R
@@ -24428,7 +24428,7 @@ concedes===K_ON_S_EH_D
 concedes===K_ON_S_E2_D_E2
 concedez===K_ON_S_E2_D_E2
 concedons===K_ON_S_E2_D_ON
-concelebrent===K_ON_S_E2_L_EH_B_R_5-
+concelebrent===K_ON_S_E2_L_EH_B_R_5
 concentra===K_ON_S_AN_T_R_AH
 concentrai===K_ON_S_AN_T_R_EH
 concentraient===K_ON_S_AN_T_R_EH
@@ -24695,7 +24695,7 @@ concussionnaire===K_ON_K_U_S_Y_OW_N_EH_R
 congut===K_ON_S_U
 condamna===K_ON_D_AH_N_AH
 condamnable===K_ON_D_AH_N_AH_B_L
-condamnables===K_ON_D_AH_N_AH_B_L_-
+condamnables===K_ON_D_AH_N_AH_B_L
 condamnai===K_ON_D_AH_N_EH
 condamnaient===K_ON_D_AH_N_EH
 condamnais===K_ON_D_AH_N_EH
@@ -25723,7 +25723,7 @@ consoliez===K_ON_S_OW_L_Y_E2
 consolions===K_ON_S_OW_L_Y_ON
 consomma===K_ON_S_OW_M_AH
 consommable===K_ON_S_OW_M_AH_B_L
-consommables===K_ON_S_OW_M_AH_B_L_-
+consommables===K_ON_S_OW_M_AH_B_L
 consommai===K_ON_S_OW_M_EH
 consommaient===K_ON_S_OW_M_EH
 consommait===K_ON_S_OW_M_EH
@@ -26473,13 +26473,13 @@ contre-indications===K_ON_T_R_IN_D_Y_K_AH_S_Y_ON
 contre-indique===K_ON_T_R_IN_D_Y_K_E2
 contre-interrogatoire===K_ON_T_R_IN_T_EH_R_OW_G_AH_T_OO_AH_R
 contre-interrogatoires===K_ON_T_R_IN_T_EH_R_OW_G_AH_T_OO_AH_R
-contre-jour===K_ON_T_R_EU_ZH_OO_R_5-
+contre-jour===K_ON_T_R_EU_ZH_OO_R_5
 contre-la-montre===K_ON_T_R_EU_L_AH_M_ON_T_R
 contre-lame===K_ON_T_R_EU_L_AH_M
 contre-lettre===K_ON_T_R_EU_L_EH_T_R
 contre-manifestants===K_ON_T_R_EU_M_AH_N_Y_F_EH_S_T_AN
 contre-manifestent===K_ON_T_R_EU_M_AH_N_Y_F_EH_S_T
-contre-mesure===IONTREUMEUZ_U_R_-
+contre-mesure===IONTREUMEUZ_U_R
 contre-mine===K_ON_T_R_EU_M_Y_N
 contre-mine===K_ON_T_R_EU_M_Y_N_E2
 contre-mines===K_ON_T_R_EU_M_Y_N
@@ -27181,7 +27181,7 @@ coquins===K_OW_K_IN
 cor===K_OH_R
 cora===K_OW_R_AH
 corail===K_OW_R_AH_Y
-coralliaires===K_OW_R_AH_L_Y_EH_R_5-
+coralliaires===K_OW_R_AH_L_Y_EH_R_5
 corallien===K_OW_R_AH_L_Y_IN
 coralliens===K_OW_R_AH_L_Y_IN
 coramine===K_OW_R_AH_M_Y_N
@@ -27524,7 +27524,7 @@ corsetee===K_OH_R_S_EU_T_E2
 corsetees===K_OH_R_S_EU_T_E2
 corseter===K_OH_R_S_EU_T_E2
 corsetes===K_OH_R_S_EU_T_E2
-corsetiere===K_OH_R_S_EU_T_Y_EH_R_5-
+corsetiere===K_OH_R_S_EU_T_Y_EH_R_5
 corsets===K_OH_R_S_EH
 corso===K_OH_R_S_OW
 corsos===K_OH_R_S_OW
@@ -27725,7 +27725,7 @@ couchaient===K_OO_SH_EH
 couchailler===K_OO_SH_AH_Y_E2
 couchais===K_OO_SH_EH
 couchait===K_OO_SH_EH
-couchames===K_OO_SH_AH_M_V-
+couchames===K_OO_SH_AH_M_V
 couchant===K_OO_SH_AN
 couchants===K_OO_SH_AN
 couchat===K_OO_SH_AH
@@ -30664,7 +30664,7 @@ deboucheur===D_E2_B_OO_SH_UH_R
 deboucheurs===D_E2_B_OO_SH_UH_R
 debouchez===D_E2_B_OO_SH_E2
 debouchions===D_E2_B_OO_SH_Y_ON
-debouchoir===D_E2_B_OO_SH_OO_AH_R_5-
+debouchoir===D_E2_B_OO_SH_OO_AH_R_5
 debouchoirs===D_E2_B_OO_SH_OO_AH_R
 debouchons===D_E2_B_OO_SH_ON
 deboucla===D_E2_B_OO_K_L_AH
@@ -30806,7 +30806,7 @@ debrouillaient===D_E2_B_R_OO_Y_EH
 debrouillais===D_E2_B_R_OO_Y_EH
 debrouillait===D_E2_B_R_OO_Y_EH
 debrouillant===D_E2_B_R_OO_Y_AN
-debrouihard===D_E2_B_R_OO_Y_AH_R_5-
+debrouihard===D_E2_B_R_OO_Y_AH_R_5
 debrouillarde===D_E2_B_R_OO_Y_AH_R_D
 debrouillards===D_E2_B_R_OO_Y_AH_R
 debrouillat===D_E2_B_R_OO_Y_AH
@@ -31394,7 +31394,7 @@ decimales===D_E2_S_Y_M_AH_L
 decimalisation===D_E2_S_Y_M_AH_L_Y_Z_AH_S_Y_ON
 decimalite===D_E2_S_Y_M_AH_L_Y_T_E2
 decimant===D_E2_S_Y_M_AN
-decimateur===D_E2_S_Y_M_AH_T_UH_R_5-
+decimateur===D_E2_S_Y_M_AH_T_UH_R_5
 decimation===D_E2_S_Y_M_AH_S_Y_ON
 decime===D_E2_S_Y_M
 decime===D_E2_S_Y_M_E2
@@ -32629,7 +32629,7 @@ deflagration===D_E2_F_L_AH_G_R_AH_S_Y_ON
 deflagrations===D_E2_F_L_AH_G_R_AH_S_Y_ON
 defiationniste===D_E2_F_L_AH_S_Y_OW_N_Y_S_T
 defiationnistes===D_E2_F_L_AH_S_Y_OW_N_Y_S_T
-defiecteur===D_E2_F_L_EH_K_T_UH_R_5-
+defiecteur===D_E2_F_L_EH_K_T_UH_R_5
 defiecteurs===D_E2_F_L_EH_K_T_UH_R
 defieuri===D_E2_F_L_UH_R_Y
 defieuries===D_E2_F_L_UH_R_Y
@@ -32925,7 +32925,7 @@ degoisent===D_E2_G_OO_AH_Z
 degoiser===D_E2_G_OO_AH_Z_E2
 degoiserai===D_E2_G_OO_AH_Z_EU_R_EH
 degoises===D_E2_G_OO_AH_Z
-degommage===D_E2_G_OW_M_AH_ZH_-
+degommage===D_E2_G_OW_M_AH_ZH
 degommait===D_E2_G_OW_M_EH
 degommant===D_E2_G_OW_M_AN
 degomme===D_E2_G_OH_M
@@ -33755,7 +33755,7 @@ demarche===D_E2_M_AH_R_SH
 demarcher===D_E2_M_AH_R_SH_E2
 demarches===D_E2_M_AH_R_SH
 demarcheur===D_E2_M_AH_R_SH_UH_R
-demarcheurs===D_E2_M_AH_R_SH_UH_R_5-
+demarcheurs===D_E2_M_AH_R_SH_UH_R_5
 demarcheuse===D_E2_M_AH_R_SH_EU_Z
 demariee===D_E2_M_AH_R_Y_E2
 demarient===D_E2_M_AH_R_Y
@@ -35399,7 +35399,7 @@ deridera===D_E2_R_Y_D_EU_R_AH
 deriderait===D_E2_R_Y_D_EU_R_EH
 deridez===D_E2_R_Y_D_E2
 derision===D_E2_R_Y_Z_Y_ON
-derisoire===D_E2_R_Y_Z_OO_AH_R_-
+derisoire===D_E2_R_Y_Z_OO_AH_R
 derisoirement===D_E2_R_Y_Z_OO_AH_R_EU_M_AN
 derisoires===D_E2_R_Y_Z_OO_AH_R
 deriva===D_E2_R_Y_V_AH
@@ -36131,7 +36131,7 @@ disintigrations===D_E2_Z_IN_T_E2_G_R_AH_S_Y_ON
 disintegre===D_E2_Z_IN_T_EH_G_R
 disintigri===D_E2_Z_IN_T_E2_G_R_E2
 disintigrie===D_E2_Z_IN_T_E2_G_R_E2
-disintegrent===D_E2_Z_IN_T_EH_G_R_5-
+disintegrent===D_E2_Z_IN_T_EH_G_R_5
 disintigrer===D_E2_Z_IN_T_E2_G_R_E2
 disintigrera===D_E2_Z_IN_T_E2_G_R_EU_R_AH
 disintigreront===D_E2_Z_IN_T_E2_G_R_EU_R_ON
@@ -37232,7 +37232,7 @@ deverserait===D_E2_V_EH_R_S_EU_R_EH
 deverserent===D_E2_V_EH_R_S_EH_R
 deverses===D_E2_V_EH_R_S_E2
 deversez===D_E2_V_EH_R_S_E2
-deversoir===D_E2_V_EH_R_S_OO_AH_R_5-
+deversoir===D_E2_V_EH_R_S_OO_AH_R_5
 devet===D_E2_V_EH
 devetaient===D_E2_V_EH_T_EH
 devetait===D_E2_V_EH_T_EH
@@ -37576,18 +37576,18 @@ diagonaux===D_Y_AH_G_OW_N_OW
 diagramme===D_Y_AH_G_R_AH_M
 diagrammes===D_Y_AH_G_R_AH_M
 dialectal===D_Y_AH_L_EH_K_T_AH_L
-dialectale===D_Y_AH_L_EH_K_T_AH_L_-
+dialectale===D_Y_AH_L_EH_K_T_AH_L
 dialecte===D_Y_AH_L_EH_K_T
 dialectes===D_Y_AH_L_EH_K_T
 dialecticien===D_Y_AH_L_EH_K_T_Y_S
 dialecticienne===D_Y_AH_L_EH_K_T_Y
 dialecticiens===D_Y_AH_L_EH_K_T_Y_F
-dialectique===D_Y_AH_L_EH_K_T_Y_K_-
+dialectique===D_Y_AH_L_EH_K_T_Y_K
 dialectiques===D_Y_AH_L_EH_K_T_Y_K
 dialogique===D_Y_AH_L_OW_ZH_Y_K
 dialoguai===D_Y_AH_L_OW_G_EH
 dialoguaient===D_Y_AH_L_OW_G_EH
-dialoguait===D_Y_AH_L_OW_G_EH_-
+dialoguait===D_Y_AH_L_OW_G_EH
 dialoguant===D_Y_AH_L_OW_G_AN
 dialoguat===D_Y_AH_L_OW_G_AH
 dialogue===D_Y_AH_L_OH_G
@@ -37599,7 +37599,7 @@ dialoguer===D_Y_AH_L_OW_G_E2
 dialoguera===D_Y_AH_L_OH_G_EU_R_AH
 dialogues===D_Y_AH_L_OH_G
 dialoguez===D_Y_AH_L_OW_G_E2
-dialoguiste===D_Y_AH_L_OW_G_Y_S_T_-
+dialoguiste===D_Y_AH_L_OW_G_Y_S_T
 dialoguistes===D_Y_AH_L_OW_G_Y_S_T
 dialoguons===D_Y_AH_L_OW_G_ON
 dialyse===D_Y_AH_L_Y_Z_E2
@@ -38377,7 +38377,7 @@ disjoncterait===D_Y_ZH_ON_K_T_EU_R_EH
 disjonctes===D_Y_ZH_ON_K_T
 disjonctes===D_Y_ZH_ON_K_T_E2
 disjoncteur===D_Y_ZH_ON_K_T_UH_R
-disjoncteurs===D_Y_ZH_ON_K_T_UH_R_5-
+disjoncteurs===D_Y_ZH_ON_K_T_UH_R_5
 disjonctez===D_Y_ZH_ON_K_T_E2
 disjonction===D_Y_ZH_ON_X_Y_ON
 disjonctions===D_Y_ZH_ON_X_Y_ON
@@ -39144,7 +39144,7 @@ doctorat===D_OH_K_T_OW_R_AH
 doctorats===D_OH_K_T_OW_R_AH
 doctoresse===D_OH_K_T_OW_R_EH_S
 doctrina===D_OH_K_T_R_Y_N_AH
-doctrinaire===D_OH_K_T_R_Y_N_EH_R_5-
+doctrinaire===D_OH_K_T_R_Y_N_EH_R_5
 doctrinaires===D_OH_K_T_R_Y_N_EH_R
 doctrinal===D_OH_K_T_R_Y_N_AH_L
 doctrinale===D_OH_K_T_R_Y_N_AH_L
@@ -39559,7 +39559,7 @@ douait===D_OO_EH
 douane===D_OO_AH_N
 douanes===D_OO_AH_N
 douanier===D_OO_AH_N_Y_E2
-douaniere===D_OO_AH_N_Y_EH_R_-
+douaniere===D_OO_AH_N_Y_EH_R
 douanieres===D_OO_AH_N_Y_EH_R
 douaniers===D_OO_AH_N_Y_E2
 douar===D_OO_AH_R
@@ -39631,7 +39631,7 @@ doucettement===D_OO_S_EH_T_EU_M_AN
 douceur===D_OO_S_UH_R
 douceurs===D_OO_S_UH_R
 doucha===D_OO_SH_AH
-douchais===D_OO_SH_EH_-
+douchais===D_OO_SH_EH
 douchait===D_OO_SH_EH
 douchanbe===D_OO_SH_AN_B_E2
 douchant===D_OO_SH_AN
@@ -41254,7 +41254,7 @@ empale===AN_P_AH_L
 empale===AN_P_AH_L_E2
 empaiee===AN_P_AH_L_E2
 empaiees===AN_P_AH_L_E2
-empaiement===AN_P_AH_L_EU_M_AN_-
+empaiement===AN_P_AH_L_EU_M_AN
 empaier===AN_P_AH_L_E2
 empaierais===AN_P_AH_L_EU_R_EH
 empaieront===AN_P_AH_L_EU_R_ON
@@ -41943,7 +41943,7 @@ encerclent===AN_S_EH_R_K_L
 encercler===AN_S_EH_R_K_L_E2
 encerclera===AN_S_EH_R_K_L_EU_R_AH
 encercleraient===AN_S_EH_R_K_L_EU_R_EH
-encerclerent===AN_S_EH_R_K_L_EH_R_5-
+encerclerent===AN_S_EH_R_K_L_EH_R_5
 encercles===AN_S_EH_R_K_L_E2
 encerclez===AN_S_EH_R_K_L_E2
 encerclons===AN_S_EH_R_K_L_ON
@@ -42172,7 +42172,7 @@ encourant===AN_K_OO_R_AN
 encourent===AN_K_OO_R
 encourir===AN_K_OO_R_Y_R
 encourrait===AN_K_OO_R_EH
-encours===AN_K_OO_R_-
+encours===AN_K_OO_R
 encourt===AN_K_OO_R
 encouru===AN_K_OO_R_U
 encourue===AN_K_OO_R_U
@@ -42739,7 +42739,7 @@ engageai===AN_G_AH_ZH_EH
 engageaient===AN_G_AH_ZH_EH
 engageais===AN_G_AH_ZH_EH
 engageait===AN_G_AH_ZH_EH
-engageames===AN_G_AH_ZH_AH_M_-
+engageames===AN_G_AH_ZH_AH_M
 engageant===AN_G_AH_ZH_AN
 engageante===AN_G_AH_ZH_AN_T
 engageantes===AN_G_AH_ZH_AN_T
@@ -43046,7 +43046,7 @@ enjamberent===AN_ZH_AN_B_EH_R
 enjambes===AN_ZH_AN_B
 enjambes===AN_ZH_AN_B_E2
 enjambeur===AN_ZH_AN_B_UH_R
-enjambeurs===AN_ZH_AN_B_UH_R_-
+enjambeurs===AN_ZH_AN_B_UH_R
 enjambez===AN_ZH_AN_B_E2
 enjambions===AN_ZH_AN_B_Y_ON
 enjambons===AN_ZH_AN_B_ON
@@ -43970,7 +43970,7 @@ entrapergus===AN_T_R_AH_P_EH_R_S_U
 entrappellent===AN_T_R_AH_P_EH_L
 entregorgent===AN_T_R_E2_G_OH_R_ZH
 entregorger===AN_T_R_E2_G_OH_R_ZH_E2
-entregorgerent===AN_T_R_E2_G_OH_R_ZH_EH_R_5-
+entregorgerent===AN_T_R_E2_G_OH_R_ZH_EH_R_5
 entrouvert===AN_T_R_OO_V_EH_R
 entrouverte===AN_T_R_OO_V_EH_R_T
 entrouvertes===AN_T_R_OO_V_EH_R_T
@@ -45550,7 +45550,7 @@ ex-fils===EH_X_F_Y_S
 ex-flic===EH_X_F_L_Y_K
 ex-flics===EH_X_F_L_Y_K
 ex-formats===EH_X_F_OH_R_S_AH
-ex-fusilleurs===EH_X_F_U_Z_Y_UH_R_5-
+ex-fusilleurs===EH_X_F_U_Z_Y_UH_R_5
 ex-gang===EH_X_G_AN_G
 ex-garde===EH_X_G_AH_R_D
 ex-gardes===EH_X_G_AH_R_D
@@ -48530,7 +48530,7 @@ elaborees===E2_L_AH_B_OW_R_E2
 elaborent===E2_L_AH_B_OH_R
 elaborer===E2_L_AH_B_OW_R_E2
 elaboreraient===E2_L_AH_B_OH_R_EU_R_EH
-elaborerent===E2_L_AH_B_OW_R_EH_R_5-
+elaborerent===E2_L_AH_B_OW_R_EH_R_5
 elabores===E2_L_AH_B_OW_R_E2
 elaboriez===E2_L_AH_B_OW_R_Y_E2
 elaborions===E2_L_AH_B_OW_R_Y_ON
@@ -48706,7 +48706,7 @@ elegie===E2_L_E2_ZH_Y
 elegies===E2_L_E2_ZH_Y
 element===E2_L_E2_M_AN
 element-cle===E2_L_E2_M_AN_K_L_E2
-elementalre===E2_L_E2_M_AN_T_EH_R_5-
+elementalre===E2_L_E2_M_AN_T_EH_R_5
 elementalres===E2_L_E2_M_AN_T_EH_R
 elementarite===E2_L_E2_M_AN_T_AH_R_Y_T_E2
 elements===E2_L_E2_M_AN
@@ -50708,7 +50708,7 @@ etrangles===E2_T_R_AN_G_L_E2
 etrangleur===E2_T_R_AN_G_L_UH_R
 etrangleurs===E2_T_R_AN_G_L_UH_R
 etrangleuse===E2_T_R_AN_G_L_EU_Z
-etrangleuses===E2_T_R_AN_G_L_EU_Z_5-
+etrangleuses===E2_T_R_AN_G_L_EU_Z_5
 etranglez===E2_T_R_AN_G_L_E2
 etrave===E2_T_R_AH_V
 etraves===E2_T_R_AH_V
@@ -53623,7 +53623,7 @@ fletrissant===F_L_E2_T_R_Y_S_AN
 fletrissement===F_L_E2_T_R_Y_S_EU_M_AN
 fletrissent===F_L_E2_T_R_Y_S
 fletrissure===F_L_E2_T_R_Y_S_U_R
-fletrissures===F_L_E2_T_R_Y_S_U_R_5-
+fletrissures===F_L_E2_T_R_Y_S_U_R_5
 fletrit===F_L_E2_T_R_Y
 fletrit===F_L_E2_T_R_Y
 fleur===F_L_UH_R
@@ -54246,7 +54246,7 @@ forent===F_OH_R
 forer===F_OW_R_E2
 fores===F_OW_R_E2
 forestier===F_OW_R_EH_S_T_Y_E2
-forestiere===F_OW_R_EH_S_T_Y_EH_R_5-
+forestiere===F_OW_R_EH_S_T_Y_EH_R_5
 forestieres===F_OW_R_EH_S_T_Y_EH_R
 forestiers===F_OW_R_EH_S_T_Y_E2
 foret===F_OW_R_EH
@@ -54260,7 +54260,7 @@ foreuses===F_OW_R_EU_Z
 forez===F_OW_R_E2
 forfait===F_OH_R_F_EH
 forfaitaire===F_OH_R_F_EH_T_EH_R
-forfaitaires===F_OH_R_F_EH_T_EH_R_5-
+forfaitaires===F_OH_R_F_EH_T_EH_R_5
 forfaits===F_OH_R_F_EH
 forfaiture===F_OH_R_F_E2_T_U_R
 forfanterie===F_OH_R_F_AN_T_EU_R_Y
@@ -56707,7 +56707,7 @@ gardat===G_AH_R_D_AH
 garde===G_AH_R_D
 garde===G_AH_R_D_E2
 garde-a-vous===G_AH_R_D_AH_V_OO
-garde-barriere===G_AH_R_D_EU_B_AH_R_Y_EH_R_5-
+garde-barriere===G_AH_R_D_EU_B_AH_R_Y_EH_R_5
 garde-boue===G_AH_R_D_EU_B_OO
 garde-champetre===G_AH_R_D_EU_SH_AN_P_EH_T_R
 garde-chasse===G_AH_R_D_EU_SH_AH_S
@@ -56984,7 +56984,7 @@ gauchistes===G_OW_SH_Y_S_T
 gaucho===G_OW_SH_OW
 gauchos===G_OW_SH_OW
 gaudriole===G_OW_D_R_Y_OH_L
-gaudrioles===G_OW_D_R_Y_OH_L_-
+gaudrioles===G_OW_D_R_Y_OH_L
 gaufre===G_OW_F_R
 gaufre===G_OW_F_R_E2
 gaufree===G_OW_F_R_E2
@@ -58220,7 +58220,7 @@ gogo===G_OW_G_OW
 gogol===G_OW_G_OH_L
 gogols===G_OW_G_OH_L
 gogs===G_OH_G
-goguenard===G_OH_G_EU_N_AH_R_-
+goguenard===G_OH_G_EU_N_AH_R
 goguenarda===G_OH_G_EU_N_AH_R_D_AH
 goguenarde===G_OH_G_EU_N_AH_R_D
 goguenardes===G_OH_G_EU_N_AH_R_D
@@ -58417,7 +58417,7 @@ gouaille===G_OO_AH_Y
 gouaille===G_OO_AH_Y_E2
 gouailleur===G_OO_AH_Y_UH_R
 gouailleurs===G_OO_AH_Y_UH_R
-gouailleuse===G_OO_AH_Y_EU_Z_-
+gouailleuse===G_OO_AH_Y_EU_Z
 gouaiileuses===G_OO_AH_Y_EU_Z
 gouaiante===G_OO_AH_LAN_T
 gouaiantes===G_OO_AH_LAN_T
@@ -59201,7 +59201,7 @@ grelottement===G_R_EU_L_OH_T_EU_M_AN
 grelottements===G_R_EU_L_OH_T_EU_M_AN
 grelottent===G_R_EU_L_OH_T
 grelotter===G_R_EU_L_OW_T_E2
-grelotterent===G_R_EU_L_OW_T_EH_R_5-
+grelotterent===G_R_EU_L_OW_T_EH_R_5
 grelottes===G_R_EU_L_OH_T
 grelotteux===G_R_EU_L_OW_T_EU
 grelottions===G_R_EU_L_OW_T_Y_ON
@@ -60204,7 +60204,7 @@ habillai===AH_B_Y_EH
 habillaient===AH_B_Y_EH
 habillais===AH_B_Y_EH
 habillait===AH_B_Y_EH
-habillames===AH_B_Y_AH_M_-
+habillames===AH_B_Y_AH_M
 habillant===AH_B_Y_AN
 habillas===AH_B_Y_AH
 habillat===AH_B_Y_AH
@@ -61150,7 +61150,7 @@ hercyniennes===EH_R_S_Y_N_Y_EH_N
 here===EH_R
 hereditaire===E2_R_E2_D_Y_T_EH_R
 hereditairement===E2_R_E2_D_Y_T_EH_R_EU_M_AN
-hereditaires===E2_R_E2_D_Y_T_EH_R_5-
+hereditaires===E2_R_E2_D_Y_T_EH_R_5
 heredite===E2_R_E2_D_Y_T_E2
 heredo===E2_R_E2_D_OW
 heres===EH_R
@@ -63947,7 +63947,7 @@ incessants===IN_S_E2_S_AN
 inceste===IN_S_EH_S_T
 incestes===IN_S_EH_S_T
 incestueuse===IN_S_EH_S_T_U_EU_Z
-incestueuses===IN_S_EH_S_T_U_EU_Z_5-
+incestueuses===IN_S_EH_S_T_U_EU_Z_5
 incestueux===IN_S_EH_S_T_U_EU
 inchallah===Y_N_SH_AH_L_AH
 inchange===IN_SH_AN_ZH_E2
@@ -66505,7 +66505,7 @@ interferon===IN_T_EH_R_F_E2_R_ON
 interferons===IN_T_EH_R_F_E2_R_ON
 intergalactique===IN_T_EH_R_G_AH_L_AH_K_T_Y_K
 intergalactiques===IN_T_EH_R_G_AH_L_AH_K_T_Y_K
-interglaciaire===IN_T_EH_R_G_L_AH_S_Y_EH_R_5-
+interglaciaire===IN_T_EH_R_G_L_AH_S_Y_EH_R_5
 intergouvernemental===IN_T_EH_R_G_OO_V_EH_R_N_EU_M_AN_T_AH_L
 intergouvernementale===IN_T_EH_R_G_OO_V_EH_R_N_EU_M_AN_T_AH_L
 interieur===IN_T_E2_R_Y_UH_R
@@ -66534,7 +66534,7 @@ interligne===IN_T_EH_R_L_Y_N_Y_EU
 interlignes===IN_T_EH_R_L_Y_N_Y_EU
 interlignes===IN_T_EH_R_L_Y_N_Y_E2
 interlocuteur===IN_T_EH_R_L_OW_K_U_T_UH_R
-interlocuteurs===IN_T_EH_R_L_OW_K_U_T_UH_R_5-
+interlocuteurs===IN_T_EH_R_L_OW_K_U_T_UH_R_5
 interlocutoire===IN_T_EH_R_L_OW_K_U_T_OO_AH_R
 interlocutoires===IN_T_EH_R_L_OW_K_U_T_OO_AH_R
 interlocutrice===IN_T_EH_R_L_OW_K_U_T_R_Y_S
@@ -67470,7 +67470,7 @@ irrefutables===Y_R_E2_F_U_T_AH_B_L
 irregularite===Y_R_E2_G_U_L_AH_R_Y_T_E2
 irregularites===Y_R_E2_G_U_L_AH_R_Y_T_E2
 irregulier===Y_R_E2_G_U_L_Y_E2
-irreguliere===Y_R_E2_G_U_L_Y_EH_R_5-
+irreguliere===Y_R_E2_G_U_L_Y_EH_R_5
 irregulierement===Y_R_E2_G_U_L_Y_EH_R_EU_M_AN
 irregulieres===Y_R_E2_G_U_L_Y_EH_R
 irreguliers===Y_R_E2_G_U_L_Y_E2
@@ -68062,7 +68062,7 @@ jerseys===ZH_EH_R_Z_EH
 jerusalem===ZH_E2_R_U_Z_AH_L_EH_M
 jesuite===ZH_E2_Z_U_Y_T
 jesuites===ZH_E2_Z_U_Y_T
-jesuitiere===ZH_E2_Z_U_Y_T_Y_EH_R_5-
+jesuitiere===ZH_E2_Z_U_Y_T_Y_EH_R_5
 jesuitique===ZH_E2_Z_U_Y_T_Y_K
 jesuitiques===ZH_E2_Z_U_Y_T_Y_K
 jesus===ZH_E2_Z_U
@@ -68174,7 +68174,7 @@ joggers===DJ_OH_G_UH_R
 joggeur===DJ_OH_G_UH_R
 joggeurs===DJ_OH_G_ZH_UH_R
 joggeuse===DJ_OH_G_EU_Z
-jogging===DJ_OH_G_Y_N_G_;-
+jogging===DJ_OH_G_Y_N_G_;
 joggings===DJ_OH_G_Y_N_G
 johannisberg===ZH_OH_AH_N_Y_S_B_UH_R_G
 joice===ZH_OO_AH_S
@@ -68884,7 +68884,7 @@ kilometrage===K_Y_L_OW_M_E2_T_R_AH_ZH
 kilometrages===K_Y_L_OW_M_E2_T_R_AH_ZH
 kilometre===K_Y_L_OW_M_EH_T_R
 kilometres===K_Y_L_OW_M_EH_T_R
-kilometres-heure===K_Y_L_OW_M_EH_T_R_UH_R_-
+kilometres-heure===K_Y_L_OW_M_EH_T_R_UH_R
 kilometrique===K_Y_L_OW_M_E2_T_R_Y_K
 kilometriques===K_Y_L_OW_M_E2_T_R_Y_K
 kilos===K_Y_L_OW
@@ -70056,7 +70056,7 @@ legifere===L_E2_ZH_Y_F_E2_R_E2
 legiferer===L_E2_ZH_Y_F_E2_R_E2
 legion===L_E2_ZH_Y_ON
 legionellose===L_E2_ZH_Y_OW_N_E2_L_OW_Z
-legionnaire===L_E2_ZH_Y_OW_N_EH_R_5-
+legionnaire===L_E2_ZH_Y_OW_N_EH_R_5
 legionnaires===L_E2_ZH_Y_OW_N_EH_R
 legions===L_E2_ZH_Y_ON
 legisiateur===L_E2_ZH_Y_S_L_AH_T_UH_R
@@ -71007,7 +71007,7 @@ litterales===L_Y_T_E2_R_AH_L
 litteralite===L_Y_T_E2_R_AH_L_Y_T_E2
 litterateur===L_Y_T_E2_R_AH_T_UH_R
 litterateurs===L_Y_T_E2_R_AH_T_UH_R
-litterature===L_Y_T_E2_R_AH_T_U_R_5-
+litterature===L_Y_T_E2_R_AH_T_U_R_5
 litteratures===L_Y_T_E2_R_AH_T_U_R
 litteraux===L_Y_T_E2_R_OW
 littoral===L_Y_T_OW_R_AH_L
@@ -71263,7 +71263,7 @@ longeai===L_ON_ZH_EH
 longeaient===L_ON_ZH_EH
 longeais===L_ON_ZH_EH
 longeait===L_ON_ZH_EH
-longeames===L_ON_ZH_AH_M_-
+longeames===L_ON_ZH_AH_M
 longeant===L_ON_ZH_AN
 longee===L_ON_ZH_E2
 longent===L_ON_ZH
@@ -71528,7 +71528,7 @@ loupiottes===L_OO_P_Y_OH_T
 loups===L_OO
 loups-cerviers===L_OO_S_EH_R_V_Y_E2
 loups-garous===L_OO_G_AH_R_OO
-lourant===L_OO_R_AN_-
+lourant===L_OO_R_AN
 lourdait===L_OO_R_D_EH
 lourdant===L_OO_R_D_AN
 lourdaud===L_OO_R_D_OW
@@ -71829,7 +71829,7 @@ luxuriants===L_U_X_U_R_Y_AN
 luxurieuse===L_U_X_U_R_Y_EU_Z
 luxurieux===L_U_X_U_R_Y_EU
 luzernes===L_U_Z_EH_R_N
-luzernieres===L_U_Z_EH_R_N_Y_EH_R_5-
+luzernieres===L_U_Z_EH_R_N_Y_EH_R_5
 lycanthrope===L_Y_K_AN_T_R_OH_P
 lycanthropes===L_Y_K_AN_T_R_OH_P
 lycanthropie===L_Y_K_AN_T_R_OH_P_Y
@@ -72599,7 +72599,7 @@ malle===M_AH_L
 malleabilite===M_AH_L_E2_AH_B_Y_L_Y_T_E2
 malleable===M_AH_L_E2_AH_B_L
 malleabies===M_AH_L_E2_AH_B_L
-malleolaire===M_AH_L_E2_OH_L_EH_R_5-
+malleolaire===M_AH_L_E2_OH_L_EH_R_5
 malleole===M_AH_L_E2_OH_L
 malles===M_AH_L
 mallette===M_AH_L_EH_T
@@ -73248,7 +73248,7 @@ maraude===M_AH_R_OW_D_E2
 marauder===M_AH_R_OW_D_E2
 maraudes===M_AH_R_OW_D
 maraudes===M_AH_R_OW_D_E2
-maraudeur===M_AH_R_OW_D_UH_R_-
+maraudeur===M_AH_R_OW_D_UH_R
 maraudeurs===M_AH_R_OW_D_UH_R
 maraudeuse===M_AH_R_OW_D_EU_Z
 marauds===M_AH_R_OW
@@ -73550,7 +73550,7 @@ marmot===M_AH_R_M_OW
 marmots===M_AH_R_M_OW
 marmotta===M_AH_R_M_OW_T_AH
 marmottages===M_AH_R_M_OW_T_AH_ZH
-marmottait===M_AH_R_M_OW_T_EH_-
+marmottait===M_AH_R_M_OW_T_EH
 marmottant===M_AH_R_M_OW_T_AN
 marmotte===M_AH_R_M_OH_T
 marmotte===M_AH_R_M_OW_T_E2
@@ -76604,7 +76604,7 @@ modulable===M_OW_D_U_L_AH_B_L
 modulables===M_OW_D_U_L_AH_B_L
 modulai===M_OW_D_U_L_EH
 modulaire===M_OW_D_U_L_EH_R
-modulaires===M_OW_D_U_L_EH_R_-
+modulaires===M_OW_D_U_L_EH_R
 modulais===M_OW_D_U_L_EH
 modulait===M_OW_D_U_L_EH
 modulant===M_OW_D_U_L_AN
@@ -76843,7 +76843,7 @@ monasteres===M_OW_N_AH_S_T_EH_R
 monastique===M_OW_N_AH_S_T_Y_K
 monastiques===M_OW_N_AH_S_T_Y_K
 monbazillac===M_ON_B_AH_Z_Y_AH_L
-monceau===M_ON_S_OW_-
+monceau===M_ON_S_OW
 monceaux===M_ON_S_OW
 monda===M_ON_D_AH
 mondain===M_ON_D_IN
@@ -78397,7 +78397,7 @@ mythologues===M_Y_T_OW_L_OH_G
 mythomane===M_Y_T_OW_M_AH_N
 mythomanes===M_Y_T_OW_M_AH_N
 mythomanie===M_Y_T_OW_M_AH_N_Y
-myxoedemateuse===M_Y_X_EU_D_E2_M_AH_T_EU_Z_5-
+myxoedemateuse===M_Y_X_EU_D_E2_M_AH_T_EU_Z_5
 myxomatose===M_Y_X_OW_M_AH_T_OW_Z
 n===EH_N
 nl===N
@@ -78724,7 +78724,7 @@ naufrager===N_OW_F_R_AH_ZH_E2
 naufrages===N_OW_F_R_AH_ZH
 naufrages===N_OW_F_R_AH_ZH_E2
 naufrageur===N_OW_F_R_AH_ZH_UH_R
-naufrageurs===N_OW_F_R_AH_ZH_UH_R_5-
+naufrageurs===N_OW_F_R_AH_ZH_UH_R_5
 nauru===N_OW_R_OO
 nauseabond===N_OW_Z_E2_AH_B_ON
 nauseabonde===N_OW_Z_E2_AH_B_ON_D
@@ -79153,12 +79153,12 @@ nettoye===N_E2_T_OO_AH_Y_E2
 nettoyee===N_E2_T_OO_AH_Y_E2
 nettoyees===N_E2_T_OO_AH_Y_E2
 nettoyer===N_E2_T_OO_AH_Y_E2
-nettoyerent===N_E2_T_OO_AH_Y_EH_R_5-
+nettoyerent===N_E2_T_OO_AH_Y_EH_R_5
 nettoyes===N_E2_T_OO_AH_Y_E2
 nettoyeur===N_E2_T_OO_AH_Y_UH_R
 nettoyeurs===N_E2_T_OO_AH_Y_UH_R
 nettoyeuse===N_E2_T_OO_AH_Y_EU_Z
-nettoyeuses===N_E2_T_OO_AH_Y_EU_Z_5-
+nettoyeuses===N_E2_T_OO_AH_Y_EU_Z_5
 nettoyez===N_E2_T_OO_AH_Y_E2
 nettoyiez===N_E2_T_OO_AH_Y_E2
 nettoyons===N_E2_T_OO_AH_Y_ON
@@ -80222,7 +80222,7 @@ objecte===OH_B_ZH_EH_K_T_E2
 objectent===OH_B_ZH_EH_K_T
 objecter===OH_B_ZH_EH_K_T_E2
 objectera===OH_B_ZH_EH_K_T_EU_R_AH
-objecterent===OH_B_ZH_EH_K_T_EH_R_5-
+objecterent===OH_B_ZH_EH_K_T_EH_R_5
 objecterez===OH_B_ZH_EH_K_T_EU_R_E2
 objecteront===OH_B_ZH_EH_K_T_EU_R_ON
 objecteur===OH_B_ZH_EH_K_T_UH_R
@@ -82064,7 +82064,7 @@ ouistiti===OO_Y_S_T_Y_T_Y
 ouistitis===OO_Y_S_T_Y_T_Y
 ouit===OO_Y
 oukases===OO_K_AH_Z
-oulan-bator===OO_L_AN_B_AH_T_OH_R_5-
+oulan-bator===OO_L_AN_B_AH_T_OH_R_5
 oulema===OO_L_E2_M_AH
 oulemas===OO_L_E2_M_AH
 ounce===AH_OO_N_S
@@ -82185,7 +82185,7 @@ outres===OO_T_R
 outres===OO_T_R_E2
 outrigger===AH_OO_T_R_Y_G_UH_R
 outsider===AH_OO_T_S_AH_Y_D_UH_R
-outsiders===AH_OO_T_S_AH_Y_D_UH_R_5-
+outsiders===AH_OO_T_S_AH_Y_D_UH_R_5
 ouvert===OO_V_EH_R
 ouverte===OO_V_EH_R_T
 ouvertement===OO_V_EH_R_T_EU_M_AN
@@ -84246,7 +84246,7 @@ patientera===P_AH_S_Y_AN_T_EU_R_AH
 patienteraient===P_AH_S_Y_AN_T_EU_R_EH_,V
 patienterait===P_AH_S_Y_AN_T_EU_R_EH
 patienteras===P_AH_S_Y_AN_T_EU_R_AH
-patienterent===P_AH_S_Y_AN_T_EH_R_5-
+patienterent===P_AH_S_Y_AN_T_EH_R_5
 patienterez===P_AH_S_Y_AN_T_EU_R_E2
 patienterons===P_AH_S_Y_AN_T_EU_R_ON
 patientes===P_AH_S_Y_AN_T
@@ -84389,7 +84389,7 @@ patrouilleras===P_AH_T_R_OO_Y_EU_R_AH
 patrouillerez===P_AH_T_R_OO_Y_EU_R_E2
 patrouilleront===P_AH_T_R_OO_Y_EU_R_ON
 patrouilies===P_AH_T_R_OO_Y_EU
-patrouilleur===P_AH_T_R_OO_Y_UH_R_5-
+patrouilleur===P_AH_T_R_OO_Y_UH_R_5
 patrouilleurs===P_AH_T_R_OO_Y_UH_R
 patrouillez===P_AH_T_R_OO_Y_E2
 patrouilliez===P_AH_T_R_OO_Y_E2
@@ -85829,7 +85829,7 @@ persifle===P_EH_R_S_Y_F_L
 persifle===P_EH_R_S_Y_F_L_E2
 persifler===P_EH_R_S_Y_F_L_E2
 persifleur===P_EH_R_S_Y_F_L_UH_R
-persifleurs===P_EH_R_S_Y_F_L_UH_R_5-
+persifleurs===P_EH_R_S_Y_F_L_UH_R_5
 persil===P_EH_R_S_Y
 persille===P_EH_R_S_Y_E2
 persillee===P_EH_R_S_Y_E2
@@ -86076,7 +86076,7 @@ petarades===P_E2_T_AH_R_AH_D
 petard===P_E2_T_AH_R
 petarde===P_E2_T_AH_R_D
 petardier===P_E2_T_AH_R_D_Y_E2
-petardiere===P_E2_T_AH_R_D_Y_EH_R_5-
+petardiere===P_E2_T_AH_R_D_Y_EH_R_5
 petards===P_E2_T_AH_R
 petasse===P_E2_T_AH_S
 petassent===P_E2_T_AH_S
@@ -89176,7 +89176,7 @@ porte-aiguille===P_OH_R_T_E2_G_U_Y
 porte-avion===P_OH_R_T_AH_V_Y_ON
 porte-avions===P_OH_R_T_AH_V_Y_ON
 porte-bagages===P_OH_R_T_EU_B_AH_G_AH_ZH
-porte-banniere===P_OH_R_T_EU_B_AH_N_Y_EH_R_5-
+porte-banniere===P_OH_R_T_EU_B_AH_N_Y_EH_R_5
 porte-bebe===P_OH_R_T_EU_B_E2_B_E2
 porte-billets===P_OH_R_T_EU_B_Y_EH
 porte-bois===P_OH_R_T_EU_B_OO_AH
@@ -93135,7 +93135,7 @@ pyrolyse===P_Y_R_OW_L_Y_Z
 pyromane===P_Y_R_OW_M_AH_N
 pyromanes===P_Y_R_OW_M_AH_N
 pyromanie===P_Y_R_OW_M_AH_N_Y
-pyrometre===P_Y_R_OW_M_EH_T_R_-
+pyrometre===P_Y_R_OW_M_EH_T_R
 pyrosphere===P_Y_R_OW_S_F_EH_R
 pyrotechnicien===P_Y_R_OW_T_EH_K_N_Y_S_Y_IN
 pyrotechnie===P_Y_R_OW_T_EH_K_N_Y
@@ -94701,7 +94701,7 @@ ramenai===R_AH_M_EU_N_EH
 ramenaient===R_AH_M_EU_N_EH
 ramenais===R_AH_M_EU_N_EH
 ramenait===R_AH_M_EU_N_EH
-ramenames===R_AH_M_EU_N_AH_M_-
+ramenames===R_AH_M_EU_N_AH_M
 ramenant===R_AH_M_EU_N_AN
 ramenard===R_AH_M_EU_N_AH_R
 ramenards===R_AH_M_EU_N_AH_R
@@ -98782,7 +98782,7 @@ regularise===R_E2_G_U_L_AH_R_Y_Z_E2
 regulariser===R_E2_G_U_L_AH_R_Y_Z_E2
 regularisera===R_E2_G_U_L_AH_R_Y_Z_EU_R_AH
 regularity===R_E2_G_U_L_AH_R_Y_T_E2
-regulateur===R_E2_G_U_L_AH_T_UH_R_5-
+regulateur===R_E2_G_U_L_AH_T_UH_R_5
 regulateurs===R_E2_G_U_L_AH_T_UH_R
 regulation===R_E2_G_U_L_AH_S_Y_ON
 regulatrice===R_E2_G_U_L_AH_T_R_Y_S
@@ -98952,7 +98952,7 @@ rsinventer===R_E2_IN_V_AN_T_E2
 rsinventeraient===R_E2_IN_V_AN_T_EU_R_EH
 rsinvention===R_E2_IN_V_AN_S_Y_ON
 rsinvesti===R_E2_IN_V_EH_S_T_Y
-rsinvestir===R_E2_IN_V_EH_S_T_Y_R_5-
+rsinvestir===R_E2_IN_V_EH_S_T_Y_R_5
 reinvestirent===R_E2_IN_V_EH_S_T_Y_R
 reinvestis===R_E2_IN_V_EH_S_T_Y
 reinvestissait===R_E2_IN_V_EH_S_T_Y_S_EH
@@ -102610,7 +102610,7 @@ retractera===R_E2_T_R_AH_K_T_EU_R_AH
 retracterait===R_E2_T_R_AH_K_T_EU_R_EH
 retracterent===R_E2_T_R_AH_K_T_EH_R
 retractes===R_E2_T_R_AH_K_T_E2
-retracteur===R_E2_T_R_AH_K_T_UH_R_5-
+retracteur===R_E2_T_R_AH_K_T_UH_R_5
 retracteurs===R_E2_T_R_AH_K_T_UH_R
 retractez===R_E2_T_R_AH_K_T_E2
 retractile===R_E2_T_R_AH_K_T_Y_L
@@ -102736,7 +102736,7 @@ retrocession===R_E2_T_R_OW_S_E2_S_Y_ON
 retrofusee===R_E2_T_R_OW_F_U_Z_E2
 retrofusees===R_E2_T_R_OW_F_U_Z_E2
 retrograda===R_E2_T_R_OW_G_R_AH_D_AH
-retrogradation===R_E2_T_R_OW_G_R_AH_D_AH_S_Y_ON_-
+retrogradation===R_E2_T_R_OW_G_R_AH_D_AH_S_Y_ON
 retrogradations===R_E2_T_R_OW_G_R_AH_D_AH_S_Y_ON
 retrograde===R_E2_T_R_OW_G_R_AH_D
 retrograde===R_E2_T_R_OW_G_R_AH_D_E2
@@ -106380,7 +106380,7 @@ savoir-vivre===S_AH_V_OO_AH_R_V_Y_V_R
 savoirs===S_AH_V_OO_AH_R
 savon===S_AH_V_ON
 savonna===S_AH_V_OW_N_AH
-savonnage===S_AH_V_OW_N_AH_ZH_-
+savonnage===S_AH_V_OW_N_AH_ZH
 savonnages===S_AH_V_OW_N_AH_ZH
 savonnai===S_AH_V_OW_N_EH
 savonnaient===S_AH_V_OW_N_EH
@@ -106397,7 +106397,7 @@ savonnera===S_AH_V_OH_N_EU_R_AH
 savonneries===S_AH_V_OH_N_EU_R_Y
 savonnette===S_AH_V_OW_N_EH_T
 savonnettes===S_AH_V_OW_N_EH_T
-savonneuse===S_AH_V_OW_N_EU_Z_-
+savonneuse===S_AH_V_OW_N_EU_Z
 savonneuses===S_AH_V_OW_N_EU_Z
 savonneux===S_AH_V_OW_N_EU
 savonnier===S_AH_V_OW_N_Y_E2
@@ -106478,7 +106478,7 @@ scandale===S_K_AN_D_AH_L
 scandales===S_K_AN_D_AH_L
 scandaleuse===S_K_AN_D_AH_L_EU_Z
 scandaleusement===S_K_AN_D_AH_L_EU_Z_EU_M_AN
-scandaleuses===S_K_AN_D_AH_L_EU_Z_5-
+scandaleuses===S_K_AN_D_AH_L_EU_Z_5
 scandaleux===S_K_AN_D_AH_L_EU
 scandalisais===S_K_AN_D_AH_L_Y_Z_EH
 scandalisait===S_K_AN_D_AH_L_Y_Z_EH
@@ -107122,7 +107122,7 @@ securiser===S_E2_K_U_R_Y_Z_E2
 securises===S_E2_K_U_R_Y_Z_E2
 securisez===S_E2_K_U_R_Y_Z_E2
 securit===S_E2_K_U_R_Y
-securitaire===S_E2_K_U_R_Y_T_EH_R_5-
+securitaire===S_E2_K_U_R_Y_T_EH_R_5
 securite===S_E2_K_U_R_Y_T_E2
 securites===S_E2_K_U_R_Y_T_E2
 sedan===S_EU_D_AN
@@ -108851,7 +108851,7 @@ societaie===S_OW_S_Y_E2_T_AH_L
 societe===S_OW_S_Y_E2_T_E2
 societes===S_OW_S_Y_E2_T_E2
 sociniens===S_OW_S_Y_N_Y_IN
-socio===S_OW_S_Y_OW_-
+socio===S_OW_S_Y_OW
 socio-culturelies===S_OW_S_Y_OW_K_U_L_T_U_R_EH_L
 socio-culturels===S_OW_S_Y_OW_K_U_L_T_U_R_EH_L
 socio-economique===S_OW_S_Y_OW_E2_K_OW_N_OW_M_Y_K
@@ -109392,7 +109392,7 @@ soprano===S_OW_P_R_AH_N_OW
 sopranos===S_OW_P_R_AH_N_OW
 sorbes===S_OH_R_B
 sorbet===S_OH_R_B_EH
-sorbetiere===S_OH_R_B_EU_T_Y_EH_R_5-
+sorbetiere===S_OH_R_B_EU_T_Y_EH_R_5
 sorbetieres===S_OH_R_B_EU_T_Y_EH_R
 sorbets===S_OH_R_B_EH
 sorbier===S_OH_R_B_Y_E2
@@ -111782,7 +111782,7 @@ suffisait===S_U_F_Y_Z_EH
 suffisance===S_U_F_Y_Z_AN_S
 suffisances===S_U_F_Y_Z_AN_S
 suffisant===S_U_F_Y_Z_AN
-suffisante===S_UFYZANT-■
+suffisante===S_UFYZANT■
 suffisants===S_U_F_Y_Z_AN
 suffise===S_U_F_Y_Z
 suffisent===S_U_F_Y_Z
@@ -112548,7 +112548,7 @@ surgissant===S_U_R_ZH_Y_S_AN
 surgissement===S_U_R_ZH_Y
 surgissements===S_U_R_ZH_Y_S_EU_M_AN
 surgissez===S_U_R_ZH_Y_S_E2
-surgit===S_U_R_ZHY-
+surgit===S_U_R_ZHY
 surhomme===S_U_R_OH_M
 surhommes===S_U_R_OH_M
 surhumain===S_U_R_U_M_IN
@@ -113377,7 +113377,7 @@ tabourets===T_AH_B_OO_R_EH
 tabous===T_AH_B_OO
 tabula===T_AH_B_U_L_AH
 tabulaire===T_AH_B_U_L_EH_R
-tabulateur===T_AH_B_U_L_AH_T_UH_R_5-
+tabulateur===T_AH_B_U_L_AH_T_UH_R_5
 tabulations===T_AH_B_U_L_AH_S_Y_ON
 tac===T_AH_K
 tacatac===T_AH_K_AH_T_AH_K
@@ -115803,7 +115803,7 @@ toges===T_OH_ZH
 togo===T_OW_G_OW
 togolais===T_OW_G_OW_L_EH
 togolaise===T_OW_G_OW_L_EH_Z
-togolaises===T_OW_G_OW_L_EH_Z_-
+togolaises===T_OW_G_OW_L_EH_Z
 tohu-bohu===T_OW_U_B_OW_U
 toi===T_OO_AH
 toi-meme===T_OO_AH_M_EH_M
@@ -120776,7 +120776,7 @@ versaillais===V_EH_R_S_AH_Y_EH
 versailles===V_EH_R_S_AH_Y
 versais===V_EH_R_S_EH
 versait===V_EH_R_S_EH
-versames===V_EH_R_S_AH_M_V-
+versames===V_EH_R_S_AH_M_V
 versant===V_EH_R_S_AN
 versants===V_EH_R_S_AN
 versat===V_EH_R_S_AH
@@ -122305,7 +122305,7 @@ vulcaniser===V_U_L_K_AH_N_Y_Z_E2
 vulcanologue===V_U_L_K_AH_N_OW_L_OH_G
 vulgaire===V_U_L_G_EH_R
 vulgairement===V_U_L_G_EH_R_EU_M_AN
-vulgaires===V_U_L_G_EH_R_-;
+vulgaires===V_U_L_G_EH_R_;
 vulgarisee===V_U_L_G_AH_R_Y_Z_E2
 vulgariser===V_U_L_G_AH_R_Y_Z_E2
 vulgarite===V_U_L_G_AH_R_Y_T_E2

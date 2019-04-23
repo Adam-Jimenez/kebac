@@ -1,7 +1,10 @@
 from kebac import Kebac
 with open("dict.txt") as infile, open("new.dict.txt", "w") as outfile:
     for line in infile:
-        # word, phonemes = line.split("===")
+        word, phonemes = line.split("===")
+        phonemes = phonemes.replace("-","")
+        phonemes = phonemes.replace("_\n", "\n")
+        line = "===".join([word, phonemes])
         # phonemes = phonemes.replace("\n", "").split("_")
         # phonemes = [p if p != 'I' else 'K' for p in phonemes]
         # phonemes = '_'.join(phonemes)
