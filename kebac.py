@@ -78,15 +78,17 @@ class Kebac:
                 kebac_words.append(word)
         return kebac_words
 
+    def convert_input(self, input_str):
+        words = input_str.split()
+        kebac_words = self.convert(words)
+        return " ".join(kebac_words)
+
     def repl(self):
         """
         Read-eval-print loop for french-kebac conversion
         """
         while(True):
-            input_str = input()
-            words = input_str.split()
-            kebac_words = self.convert(words)
-            print(" ".join(kebac_words))
+            print(self.convert_input(input()))
 
 
 if __name__ == "__main__":
