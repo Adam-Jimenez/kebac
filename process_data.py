@@ -9,7 +9,10 @@ with open("dict.txt") as infile, open("new.dict.txt", "w") as outfile:
 
         # line = line.replace("\"\'", "")
         # line = line.replace("\"", "")
-        # line = line.replace(".", "")
+        # line = line.replace("'", "")
+        # line = line.replace("--", "")
+        # line = line.replace("D:", "DJ")
+        # line = line.replace("DD", "DJ")
         # line = line.replace("_\n", "\n")
-        line = line.replace("LAH", "L_AH")
+        # line = line.replace("LAH", "L_AH")
         outfile.write(line)
