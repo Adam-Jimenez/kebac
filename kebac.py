@@ -71,9 +71,13 @@ class Kebac:
         """
         kebac_words = []
         for word in french_words:
+            isupper = word.isupper()
+            word = word.lower()
             if word in self.dictionary:
                 phonemes = self.dictionary[word]
                 kebac_word = self.phoneme_to_kebac(phonemes)
+                if isupper:
+                    kebac_word = kebac_word.upper()
                 kebac_words.append(kebac_word)
             else:
                 kebac_words.append(word)
@@ -86,7 +90,6 @@ class Kebac:
     def convert_input(self, input_str):
         s = unidecode(input_str) # ler quebecois yutilise tu des accents?
         s = self.punc_to_space(s)
-        s = s.lower()
         words = s.split()
         kebac_words = self.convert(words)
         return " ".join(kebac_words)
