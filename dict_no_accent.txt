@@ -86267,8 +86267,8 @@ smacks===S_M_AH_K
 smala===S_M_AH_L_AH
 smalah===S_M_AH_L_AH
 smart===S_M_AH_R_T
-smash===S_M_AH_TCH
-smashe===S_M_AH_TCH
+smash===S_M_AH_SH
+smashe===S_M_AH_SH
 smegma===S_M_EH_G_M_AH
 smicard===S_M_Y_K_AH_R
 smicards===S_M_Y_K_AH_R
