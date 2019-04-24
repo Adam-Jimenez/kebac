@@ -1,10 +1,11 @@
-import re
+from unidecode import unidecode
+import string
 
 class Kebac:
     PHONEMES = {
         "AH": "a",     # se prononce comme le "A" du mot "Ami"
         "UH": "e",     # se prononce comme le "E" du mot "Neuf"
-        "EU": "e",     # se prononce comme le "E" du mot "Deux"
+        "EU": "eu",     # se prononce comme le "E" du mot "Deux"
         "E2": "é",     # se prononce comme le "É" du mot "Élément"
         "OH": "o",     # se prononce comme le "O" du mot "Rock"
         "OW": "o",     # se prononce comme le "O" du mot "Rose"
@@ -41,7 +42,7 @@ class Kebac:
         dictionary has the following format:
         [french_word]: [phoneme1, phoneme2, ...]
         """
-        self.dictionary = self.load_dict("dict.txt")
+        self.dictionary = self.load_dict("dict_no_accent.txt")
 
     def load_dict(self, file):
         """
@@ -78,8 +79,14 @@ class Kebac:
                 kebac_words.append(word)
         return kebac_words
 
+    def punc_to_space(self, input_str):
+        translator = str.maketrans(string.punctuation, ' '*len(string.punctuation))
+        return input_str.translate(translator)
+
     def convert_input(self, input_str):
-        words = input_str.split()
+        s = unidecode(input_str) # ler quebecois yutilise tu des accents?
+        s = self.punc_to_space(s)
+        words = s.split()
         kebac_words = self.convert(words)
         return " ".join(kebac_words)
 
