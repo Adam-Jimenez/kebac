@@ -10,3 +10,6 @@ def kebac():
     if french_str is not None:
         return k.convert_input(french_str)
     return "salu toua! ta mal utilise lapi! fait ?french=kekchose"
+
+if __name__ == "__main__":
+  app.run(host='0.0.0.0', port=80)
