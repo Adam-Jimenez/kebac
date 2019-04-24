@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 from flask import request
 from kebac import Kebac
@@ -12,4 +13,4 @@ def kebac():
     return "salu toua! ta mal utilise lapi! fait ?french=kekchose"
 
 if __name__ == "__main__":
-  app.run(host='0.0.0.0', port=80)
+  app.run(host='0.0.0.0', port=os.environ['PORT'])
