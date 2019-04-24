@@ -15492,7 +15492,7 @@ ceinturerent===S_IN_T_U_R_EH_R
 ceintures===S_IN_T_U_R
 ceinturon===S_IN_T_U_R_ON
 ceinturons===S_IN_T_U_R_ON
-cela===S_EU_Y_AH
+cela===S_EU_L_AH
 celadon===S_E2_L_AH_D_ON
 celait===S_EU_L_EH
 cele===S_EH_L
@@ -53071,7 +53071,7 @@ lies===Y_L
 ilette===Y_L_EH_T
 llot===Y_L_OW
 llots===Y_L_OW
-j===ZH_Y
+j===ZH
 j’===ZH
 jabadao===ZH_AH_B_AH_D_AH_OW
 jabot===ZH_AH_B_OW

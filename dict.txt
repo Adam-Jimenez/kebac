@@ -19146,7 +19146,7 @@ ceintures===S_IN_T_U_R_E2
 ceinturez===S_IN_T_U_R_E2
 ceinturon===S_IN_T_U_R_ON
 ceinturons===S_IN_T_U_R_ON
-cela===S_EU_Y_AH
+cela===S_EU_L_AH
 celadon===S_E2_L_AH_D_ON
 celait===S_EU_L_EH
 cele===S_EH_L

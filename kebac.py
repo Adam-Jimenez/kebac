@@ -4,38 +4,38 @@ import string
 class Kebac:
     PHONEMES = {
         "AH": "a",     # se prononce comme le "A" du mot "Ami"
-        "UH": "e",     # se prononce comme le "E" du mot "Neuf"
-        "EU": "eu",     # se prononce comme le "E" du mot "Deux"
-        "E2": "é",     # se prononce comme le "É" du mot "Élément"
-        "OH": "o",     # se prononce comme le "O" du mot "Rock"
-        "OW": "o",     # se prononce comme le "O" du mot "Rose"
-        "U": "u",      # se prononce comme le "U" du mot "Elu"
-        "Y": "i",      # se prononce comme le "Y" du mot "Yves"
         "AN": "an",    # se prononce comme le "An" du mot "Chant"
-        "EH": "ai",    # se prononce comme le "Ai" du mot "Aime"
-        "IN": "in",    # se prononce comme le "In" du mot "Sapin"
-        "ON": "on",    # se prononce comme le "On" du mot "Bon"
-        "OO": "ou",    # se prononce comme le "Ou" du mot "Amour"
-        "L": "l",      # se prononce comme le "L" du mot "Langue"
-        "M": "m",      # se prononce comme le "M" du mot "Mime"
-        "N": "n",      # se prononce comme le "N" du mot "Nappe"
         "B": "b",      # se prononce comme le "B" du mot "Barbe"
         "D": "d",      # se prononce comme le "D" du mot "Dame"
         "DJ": "j",     # se prononce comme le "J" du mot "Jazz"
-        "ZH": "j",     # se prononce comme le "J" du mot "Jour"
+        "E2": "é",     # se prononce comme le "É" du mot "Élément"
+        "EH": "è",    # se prononce comme le "Ai" du mot "Aime"
+        "EU": "eu",     # se prononce comme le "E" du mot "Deux"
         "F": "f",      # se prononce comme le "F" du mot "France"
         "G": "g",      # se prononce comme le "G" du mot "Gant"
+        "IN": "in",    # se prononce comme le "In" du mot "Sapin"
         "K": "k",      # se prononce comme le "K" du mot "Koala"
+        "L": "l",      # se prononce comme le "L" du mot "Langue"
+        "M": "m",      # se prononce comme le "M" du mot "Mime"
+        "N": "n",      # se prononce comme le "N" du mot "Nappe"
+        "OH": "o",     # se prononce comme le "O" du mot "Rock"
+        "ON": "on",    # se prononce comme le "On" du mot "Bon"
+        "OO": "ou",    # se prononce comme le "Ou" du mot "Amour"
+        "OW": "o",     # se prononce comme le "O" du mot "Rose"
         "P": "p",      # se prononce comme le "P" du mot "Pape"
         "R": "r",      # se prononce comme le "R" du mot "Rouge"
         "S": "s",      # se prononce comme le "S" du mot "Soleil"
         "SH": "sh",    # se prononce comme le "SH" du mot "Shiva"
         "T": "t",      # se prononce comme le "T" du mot "Toute"
         "TCH": "tch",  # se prononce comme le "Tch" du mot "Match"
+        "U": "u",      # se prononce comme le "U" du mot "Elu"
+        "UH": "e",     # se prononce comme le "E" du mot "Neuf"
         "V": "v",      # se prononce comme le "V" du mot "Vacances"
         "W": "w",      # se prononce comme le "W" du mot "Western"
         "X": "x",      # se prononce comme le "X" du mot "Index"
+        "Y": "i",      # se prononce comme le "Y" du mot "Yves"
         "Z": "z",      # se prononce comme le "Z" du mot "Zebre"
+        "ZH": "j",     # se prononce comme le "J" du mot "Jour"
     }
     def __init__(self):
         """
@@ -86,6 +86,7 @@ class Kebac:
     def convert_input(self, input_str):
         s = unidecode(input_str) # ler quebecois yutilise tu des accents?
         s = self.punc_to_space(s)
+        s = s.lower()
         words = s.split()
         kebac_words = self.convert(words)
         return " ".join(kebac_words)
