@@ -80,6 +80,8 @@ class Kebac:
                     kebac_word = kebac_word.upper()
                 kebac_words.append(kebac_word)
             else:
+                if isupper:
+                    word = word.upper()
                 kebac_words.append(word)
         return kebac_words
 
