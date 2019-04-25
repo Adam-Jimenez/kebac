@@ -29,7 +29,7 @@ class Kebac:
         "T": "t",      # se prononce comme le "T" du mot "Toute"
         "TCH": "tch",  # se prononce comme le "Tch" du mot "Match"
         "U": "u",      # se prononce comme le "U" du mot "Elu"
-        "UH": "e",     # se prononce comme le "E" du mot "Neuf"
+        "UH": "eu",     # se prononce comme le "E" du mot "Neuf"
         "V": "v",      # se prononce comme le "V" du mot "Vacances"
         "W": "w",      # se prononce comme le "W" du mot "Western"
         "X": "x",      # se prononce comme le "X" du mot "Index"
