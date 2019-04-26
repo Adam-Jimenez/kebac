@@ -11,3 +11,4 @@ pas===po
 cest===c
 cela===ca
 droit===doua
+tes===t

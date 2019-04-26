@@ -69,32 +69,38 @@ class Kebac:
         """
         return "".join([self.PHONEMES[phoneme] for phoneme in phonemes])
 
-    def convert(self,french_words):
+    def convert_word(self, word):
         """
-        Converts a list of french words into a list of kebac words
+        Converts a french word into a kebac word
         Strategies applied for conversion:
         1. French-Qc dictionary lookup
         2. Phonetic reduction of the word
         """
+        isupper = word.isupper()
+        word = word.lower()
+        kebac_word = word
+        if word in self.qc_dict:
+            kebac_word = self.qc_dict[word]
+        elif word in self.phonetic_dict:
+            phonemes = self.phonetic_dict[word]
+            kebac_word = self.phoneme_to_kebac(phonemes)
+
+        if isupper:
+            kebac_word = word.upper()
+        return kebac_word
+
+    def convert(self,french_words):
         kebac_words = []
         for word in french_words:
-            isupper = word.isupper()
-            word = word.lower()
-            if word in self.qc_dict:
-                kebac_word = self.qc_dict[word]
-                if isupper:
-                    kebac_word = kebac_word.upper()
-                kebac_words.append(kebac_word)
-            elif word in self.phonetic_dict:
-                phonemes = self.phonetic_dict[word]
-                kebac_word = self.phoneme_to_kebac(phonemes)
-                if isupper:
-                    kebac_word = kebac_word.upper()
-                kebac_words.append(kebac_word)
-            else:
-                if isupper:
-                    word = word.upper()
-                kebac_words.append(word)
+            kebac_word = self.convert_word(word)
+            no_punc_word = self.remove_punc(word)
+            kebac_word2 = self.convert_word(no_punc_word)
+            if len(kebac_word2) < len(kebac_word):
+                kebac_word = kebac_word2
+            punc_to_space_word = " ".join([self.convert_word(w) for w in self.punc_to_space(word).split(" ")])
+            if len(punc_to_space_word) < len(kebac_word):
+                kebac_word = punc_to_space_word
+            kebac_words.append(kebac_word)
         return kebac_words
 
     def punc_to_space(self, input_str):
@@ -104,12 +110,27 @@ class Kebac:
     def remove_punc(self, input_str):
         return input_str.translate(str.maketrans('', '', string.punctuation))
 
+    def join_letters(self,word):
+        new_word = ""
+        cnt_since_last_space = 999
+        for c in word:
+            if c == ' ':
+                if cnt_since_last_space > 2:
+                    new_word += c
+                cnt_since_last_space = 0
+            else:
+                new_word += c
+            cnt_since_last_space += 1
+        return new_word
+
+
     def convert_input(self, input_str):
         s = unidecode(input_str) # ler quebecois yutilise tu des accents?
-        s = self.remove_punc(s)
         words = s.split()
         kebac_words = self.convert(words)
-        return " ".join(kebac_words)
+        kebac_str =  " ".join(kebac_words)
+        joined_kebac_str = self.join_letters(kebac_str)
+        return joined_kebac_str
 
     def repl(self):
         """
