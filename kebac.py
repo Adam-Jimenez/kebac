@@ -86,7 +86,7 @@ class Kebac:
             kebac_word = self.phoneme_to_kebac(phonemes)
 
         if isupper:
-            kebac_word = word.upper()
+            kebac_word = kebac_word.upper()
         return kebac_word
 
     def convert(self,french_words):
