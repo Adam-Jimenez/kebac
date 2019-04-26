@@ -30,6 +30,7 @@ class Kebac:
         "TCH": "tch",  # se prononce comme le "Tch" du mot "Match"
         "U": "u",      # se prononce comme le "U" du mot "Elu"
         "UH": "eu",     # se prononce comme le "E" du mot "Neuf"
+        "UN": "un",    # se prononce comme le "UN" du mot "Brun"
         "V": "v",      # se prononce comme le "V" du mot "Vacances"
         "W": "w",      # se prononce comme le "W" du mot "Western"
         "X": "x",      # se prononce comme le "X" du mot "Index"
@@ -37,27 +38,30 @@ class Kebac:
         "Z": "z",      # se prononce comme le "Z" du mot "Zebre"
         "ZH": "j",     # se prononce comme le "J" du mot "Jour"
     }
+    PHONETIC_DICT_PATH="phonetic_dict.txt"
+    QC_DICT_PATH="french_qc_dict.txt"
     def __init__(self):
         """
         dictionary has the following format:
         [french_word]: [phoneme1, phoneme2, ...]
         """
-        self.dictionary = self.load_dict("dict_no_accent.txt")
+        self.load_dict()
 
-    def load_dict(self, file):
+    def load_dict(self):
         """
-        Parse french-phonetic dictionary from text file
+        Parse french-phonetic and french-qc dictionary from text file
         """
-        dictionary = {}
-        with open(file) as dict_file:
-            for line_number, line in enumerate(dict_file, 1):
+        self.phonetic_dict = {}
+        self.qc_dict = {}
+        with open(self.PHONETIC_DICT_PATH) as phonetic_dict_file, open(self.QC_DICT_PATH) as qc_dict_file:
+            for line_number, line in enumerate(phonetic_dict_file, 1):
                 word, phoneme = line.split("===")
                 phoneme = phoneme.replace("\n", "").split("_")
-                # if word in dictionary:
-                #     print("Error:", word, "already in dictionary. Line number: ", line_number)
-                # else:
-                dictionary[word] = phoneme
-        return dictionary
+                self.phonetic_dict[word] = phoneme
+            for line in qc_dict_file:
+                fr_word, qc_word = line.split("===")
+                qc_word = qc_word.replace("\n", "")
+                self.qc_dict[fr_word] = qc_word
 
     def phoneme_to_kebac(self, phonemes):
         """
@@ -68,13 +72,21 @@ class Kebac:
     def convert(self,french_words):
         """
         Converts a list of french words into a list of kebac words
+        Strategies applied for conversion:
+        1. French-Qc dictionary lookup
+        2. Phonetic reduction of the word
         """
         kebac_words = []
         for word in french_words:
             isupper = word.isupper()
             word = word.lower()
-            if word in self.dictionary:
-                phonemes = self.dictionary[word]
+            if word in self.qc_dict:
+                kebac_word = self.qc_dict[word]
+                if isupper:
+                    kebac_word = kebac_word.upper()
+                kebac_words.append(kebac_word)
+            elif word in self.phonetic_dict:
+                phonemes = self.phonetic_dict[word]
                 kebac_word = self.phoneme_to_kebac(phonemes)
                 if isupper:
                     kebac_word = kebac_word.upper()
@@ -89,9 +101,12 @@ class Kebac:
         translator = str.maketrans(string.punctuation, ' '*len(string.punctuation))
         return input_str.translate(translator)
 
+    def remove_punc(self, input_str):
+        return input_str.translate(str.maketrans('', '', string.punctuation))
+
     def convert_input(self, input_str):
         s = unidecode(input_str) # ler quebecois yutilise tu des accents?
-        s = self.punc_to_space(s)
+        s = self.remove_punc(s)
         words = s.split()
         kebac_words = self.convert(words)
         return " ".join(kebac_words)
